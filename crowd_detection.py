@@ -11,12 +11,12 @@ class BusCrowdDetector:
     def __init__(self, bus_id, capacity_threshold=0.8):
         self.bus_id = bus_id
         self.capacity_threshold = capacity_threshold
-        self.recipient_email = "neel_patel2004@outlook.com"
+        self.recipient_email = "Email that you want to send notification"
         
-        # Updated Email configuration for Outlook
-        self.sender_email = "patelneel161004@gmail.com"  # Changed to your Outlook email
-        self.sender_password = "lhoe kyqg ylmc usnv"    # Put your Outlook password here
-        self.smtp_server = "smtp.gmail.com"        # Changed to Outlook SMTP server
+        # Updated Email configuration 
+        self.sender_email = "your email"  # Changed to your  email
+        self.sender_password = "Your gogle password"    # Put your password here
+        self.smtp_server = "smtp.gmail.com"        # Changed  SMTP server
         self.smtp_port = 587
         self.max_retries = 3  # Number of times to retry sending email
         self.last_notification_time = 0  # To prevent too frequent notifications
