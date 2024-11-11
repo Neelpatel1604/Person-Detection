@@ -1,13 +1,23 @@
 # Bus Crowd Detection System
 
-This system uses computer vision to detect people in buses and send notifications when crowding is detected. It uses YOLOv4-tiny for person detection and can send email notifications.
+A real-time computer vision system that detects people in buses and sends email notifications for crowd monitoring. Built with OpenCV and YOLOv4-tiny for efficient person detection.
 
-## Prerequisites
+## 🚀 Features
+
+- Real-time person detection using YOLOv4-tiny
+- Email notifications when people are detected
+- SQLite database for storing detection data
+- Visual display with bounding boxes and confidence scores
+- Configurable notification cooldown period
+- Environment variable support for secure credential management
+
+## 📋 Prerequisites
 
 - Python 3.7 or higher
 - Webcam or IP camera
-- Gmail account for sending notifications
+- Gmail account with App Password enabled
+- Git (for cloning the repository)
 
-## Installation
+## 🛠️ Installation
 
-1. Clone the repository: 
+1. Clone the repository:
