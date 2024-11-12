@@ -111,7 +111,7 @@ Contributions welcome! Please:
 ## 📫 Support
 For help:
 - Open an issue
-- Email: your-support-email@example.com
+- Email: neel_patel2004@outlook.com
 
 ## 📜 License
 MIT License - feel free to use and modify
