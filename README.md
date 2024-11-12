@@ -22,7 +22,7 @@ A real-time computer vision system that detects people in buses and sends email 
 
 1. Clone the repository:
 ```
-git clone https://github.com/Neelpatel1604/Person-Detection/tree/main
+git clone https://github.com/Neelpatel1604/Person-Detection
 ```
 
 2. Install required packages:
