@@ -22,7 +22,7 @@ A real-time computer vision system that detects people in buses and sends email 
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/bus-crowd-detection.git
+git clone https://github.com/Neelpatel1604/Person-Detection
 ```
 
 2. Install required packages:
@@ -111,7 +111,7 @@ Contributions welcome! Please:
 ## 📫 Support
 For help:
 - Open an issue
-- Email: your-support-email@example.com
+- Email: neel_patel2004@outlook.com
 
 ## 📜 License
 MIT License - feel free to use and modify
